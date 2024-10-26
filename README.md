@@ -1,2 +1,2 @@
 # Advanced-Salary-Retirement-Model-With-Monte-Carlo-Simulation
-A Monte Carlo-powered retirement model that simulates diverse financial scenarios to estimate retirement timelines under uncertain conditions. 
+This project extends the salary retirement model by incorporating Monte Carlo simulations to analyze retirement scenarios under varied financial conditions. The model accounts for salary growth, investment returns, and uncertainties, offering a probabilistic view of retirement planning. Users can explore how different savings rates, investment returns, and expenses impact their retirement timeline, providing a robust tool for more realistic financial forecasting.
